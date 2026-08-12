@@ -1,4 +1,4 @@
-# Customer Segmentation
+# Customer Segmentation using K-Means Clustering
 
 Unsupervised learning project that segments customers into meaningful groups using K-Means clustering on income and spending behavior.
 
