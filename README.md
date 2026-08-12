@@ -1,5 +1,7 @@
 # Customer Segmentation using K-Means Clustering
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E)
+
 Unsupervised learning project that segments customers into meaningful groups using K-Means clustering on income and spending behavior.
 
 ## Overview
